@@ -14,7 +14,14 @@ Java
 Object Oriented Programming
 
 #Project Structure 
-src/ ├── Application/ │ └── Main.java ├── Logic/ │ └── Task.java └── enums/ ├── Priority.java └── Status.java
+src/ 
+├── Application/ 
+│ └── Main.java 
+├── Logic/ 
+│ └── Task.java 
+└── enums/ 
+    ├── Priority.java 
+    └── Status.java
 
 Current Version 
 
